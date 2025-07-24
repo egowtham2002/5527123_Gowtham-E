@@ -1,3 +1,3 @@
 # 5527123_Gowtham-E
 
-![alt text](GreatLearningAgile.png)
+![alt text](SDLC/GreatLearningAgile.png)
