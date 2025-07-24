@@ -1,4 +1,7 @@
 # 5527123\_Gowtham-E
 
-![alt text](SDLC/GreatLearningAgile.png)
+![alt text][def]
 
+
+
+[def]: SDLC/GreatLearningAgile.png
